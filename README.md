@@ -1,6 +1,6 @@
 # 🦾 MuriloGB
 
-Olá, meu nome é Murilo, tenho 19 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na UBC - Mogi das Cruzes. Nesse Github, irei postar alguns projetos desenvolvidos em sala ou feitos por mim que eu achar interessante. Busco desenvolver minhas habilidades como Dev para aplica-lás da melhor forma no mercado de trabalho.
+Olá, meu nome é Murilo, tenho 21 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na UBC - Mogi das Cruzes. Nesse Github, irei postar alguns projetos desenvolvidos em sala ou feitos por mim que eu achar interessante. Busco desenvolver minhas habilidades como Dev para aplica-lás da melhor forma no mercado de trabalho.
 
 ---
 
